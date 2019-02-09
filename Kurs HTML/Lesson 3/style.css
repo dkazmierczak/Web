@@ -30,15 +30,15 @@ body
 {
 	float: left;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 70px;
+	font-size: 65px;
 	width: 600px;
 	text-align: left;
 }
  #zegar
 {
-	float: left;
+	float: right;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 70px;
+	font-size: 65px;
 	text-align: left;
 }
 
@@ -112,7 +112,7 @@ body
 .yt
 {
 	margin: 10px;
-	width: 105px;
+	width: 146.5px;
 	height: 142px;
 	background-color: #d94348;
 	float: left;
@@ -126,7 +126,7 @@ body
 .fb
 {
 	margin: 10px;
-	width: 105px;
+	width: 146.5px;
 	height: 142px;
 	background-color: #4668b3;
 	float: left;
@@ -140,7 +140,7 @@ body
 .gplus
 {
 	margin: 10px;
-	width: 105px;
+	width: 146.5px;
 	height: 142px;
 	background-color: #d95333;
 	float: left;
@@ -154,7 +154,7 @@ body
 .tw
 {
 	margin: 10px;
-	width: 105px;
+	width: 146.5px;
 	height: 142px;
 	background-color: #3095d3;
 	float: left;
